@@ -1,0 +1,34 @@
+body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: green;
+  text-align: center;
+
+}
+
+.text p:hover {
+    color: darkviolet;
+    font-size: 45px;
+}
+
+.text .right:hover {
+    color: darkviolet;
+}
+    
+}
+img {
+    height: 500px;
+    weight: 500px;
+}
+
+header {
+  background: url(https://learn.logikaschool.com/uploads/student/5225218/681e5ebe39e33.jpg) no-repeat center center / cover;
+  
+}
+
+
+
+
+
+
+
